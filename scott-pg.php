@@ -3,7 +3,7 @@
 
 get_header(); ?>
 
-    <?php get_sidebar(); ?>
+    <?php get_sidebar('scott-pg'); ?>
 
 	<div id="content" class="main-content-inner col-sm-12 col-md-8 col-lg-8">
 
